@@ -35,7 +35,8 @@
 ## Screenshots
 
 ### Main Interface
-![Main Interface](https://via.placeholder.com/900x700.png?text=Main+Interface)
+![image](https://github.com/user-attachments/assets/33d673fb-e769-4038-b6d7-91428514e9dd)
+
 
 ### Package Details
 ![Package Details](https://via.placeholder.com/600x400.png?text=Package+Details)
@@ -51,5 +52,5 @@
 ### Steps
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/python-dependency-manager.git
+   git clone https://github.com/masoomul786/remove.py.git
    cd python-dependency-manager
