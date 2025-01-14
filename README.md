@@ -38,8 +38,6 @@
 ![image](https://github.com/user-attachments/assets/33d673fb-e769-4038-b6d7-91428514e9dd)
 
 
-### Package Details
-![Package Details](https://via.placeholder.com/600x400.png?text=Package+Details)
 
 ---
 
