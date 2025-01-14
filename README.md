@@ -51,4 +51,4 @@
 1. Clone the repository:
    ```bash
    git clone https://github.com/masoomul786/remove.py.git
-   cd python-dependency-manager
+   cd remove.py
